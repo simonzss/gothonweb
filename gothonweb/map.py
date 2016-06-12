@@ -51,4 +51,4 @@ central_corridor.add_paths({      #mission1
 })
 
 START=central_corridor
-GoodEnd=escape_pod
+#GoodEnd=escape_pod
